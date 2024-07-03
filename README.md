@@ -1,9 +1,8 @@
 # Parkinson’s Disease Detection & Self Stabilising Spoon With
 <p>
-    <img align="left" alt="Health_Care" title="Health Care" width="1050" height="370" src="https://i.pinimg.com/564x/db/97/24/db9724c4b5f9b2b42ef0accf9ff4acaa.jpg">
+    <img align="left" alt="Health_Care" title="Health Care" width="1050" height="370" src="https://i.pinimg.com/564x/15/67/a3/1567a320037a0738292c6b5c77b91f45.jpg">
 </p>
-
-The project aims to combine non-invasive <b> biometric measurements </b> streamed through IoT sensors with machine learning algorithms to accurately predict <b> blood glucose levels (BGLs)</b>.<br><br>
+The project aims to detect <b> Parkinson's disease <b> early using advanced health monitoring and data analysis. It also provides a <b> self-stabilizing spoon <b> to help patients with tremors eat independently, improving their quality of life and reducing caregiver dependence.<br><br>
 Features used:<br>
   **`Pulse Oxygen (SpO2)`**<br>
   **`Temperature`**<br>
@@ -46,23 +45,21 @@ The system architecture has 3 phases where it involves Data Processing, Data Tra
 <p align="left">
       <a href="https://scikit-learn.org/stable/modules/tree.html">
          <img alt="Algo 1" title="Decision Tree Model" src="https://custom-icon-badges.demolab.com/badge/-Decision_Tree-gold?style=for-the-badge&logo=decision_tree&logoColor=black"/></a>
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html">
-         <img alt="Algo 2" title="Random Forest Regressor" src="https://custom-icon-badges.demolab.com/badge/-Random_Forest_Regressor-plum?style=for-the-badge&logo=random_forest&logoColor=black"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Algo 3" title="Long Short Term Model" src="https://custom-icon-badges.demolab.com/badge/-Long_Short_Term-palegreen?style=for-the-badge&logoColor=black&logo=long_short"/></a>
-      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html">
-         <img alt="Algo 4" title="Gradient Boosting Regressor" src="https://custom-icon-badges.demolab.com/badge/-Gradient_Boosting_Regressor-teal?style=for-the-badge&logo=gradient_booster&logoColor=black"/></a>
+      <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html">
+         <img alt="Algo 2" title="Logistic Regression" src="https://custom-icon-badges.demolab.com/badge/-Logistic_Regression-plum?style=for-the-badge&logo=random_forest&logoColor=black"/></a> 
+      <a href="https://scikit-learn.org/stable/modules/neighbors.html">
+         <img alt="Algo 3" title="KNN CLassifier" src="https://custom-icon-badges.demolab.com/badge/-KNN_Classifier-palegreen?style=for-the-badge&logoColor=black&logo=long_short"/></a>
    </p>
 
 ## Getting Started:
-To get started with the project, you will need to download and install DB browser for database related work, install the required modules & libs specified in the **`Libraries_Required`** readme file.
-Make sure you have the following tool to run and view the project working: **`Visual Code`** and the frameworks listed in the **`Tools and Framework`** block. Once you get the local host url, input the coresponding input values of a person to get the model training for the predicted glucose value.
+To get started with the project, you will need to download andinstall the required modules & libs specified in the **`Libraries_Required`** readme file.
+Make sure you have the following tool to run and view the project working: **`Visual Code`** and the frameworks listed in the **`Tools and Framework`** block. Once you get the local host url, input the coresponding input values of a person to get the model training for the predicted Parkinson's Disease.
 
 ## Snapshots:
 <p>
-  <img align="left" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/2def0170-4e0f-432e-8115-448b4fcc789b"/>
-    <strong> IoT Module for Galvanic Skin Response </strong> <br> <br>
-    <strong> Galvanic Skin Response </strong> is a physiological measure that has been used in psychological research for over a century.<br>
+  <img align="left" width="450" heigth="100" src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/Hardware.jpeg"/>
+    <strong> IOT Setup of Stabilising Spoon with Health Analysis </strong> <br> <br>
+    <strong> Self Stabilizing Spoon </strong> is a physiological measure that has been used in psychological research for over a century.<br>
     GSR measures the electrical conductance of the skin, which changes in response to emotional arousal and other psychological processes.
 </p>
 <br> <br> <br> <br>
