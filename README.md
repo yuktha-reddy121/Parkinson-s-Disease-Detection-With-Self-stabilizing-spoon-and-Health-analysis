@@ -69,10 +69,8 @@ Make sure you have the following tool to run and view the project working: **`Vi
     <strong> Welcome Page of the project </strong> <br> <br>
     <strong> Parkinson's Disease </strong> is a progressive neurological disorder that affects movement, causing symptoms like tremors, stiffness, and slowed movements. It results from the loss of <strong>dopamine-producing brain cells<strong>. <br>
     <strong> Dopamine  </strong> is a neurotransmitter in the brain that plays a crucial role in regulating movement, motivation, and pleasure. It helps transmit signals between nerve cells.
-</p>
+</p><img src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/P-D.jpg?raw=true">
 <p>The pill reminder system alerts elderly individuals to take their medication on time, enhancing adherence and ensuring consistent treatment. It integrates with health monitoring platforms, providing timely reminders and reducing the risk of missed doses, which helps maintain better overall health.</p>
-
-<br> <br> <br> <br>
 <p>
   <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/Blynk.png?raw=true"/>
     <strong> Health Monitoring system Through Blynk app </strong> <br> <br>
