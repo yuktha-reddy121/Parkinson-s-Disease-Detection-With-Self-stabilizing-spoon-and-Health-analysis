@@ -59,22 +59,27 @@ Make sure you have the following tool to run and view the project working: **`Vi
 <p>
   <img align="left" width="450" heigth="100" src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/Hardware.jpeg"/>
     <strong> IOT Setup of Stabilising Spoon with Health Analysis </strong> <br> <br>
-    <strong> Self Stabilizing Spoon </strong> is a physiological measure that has been used in psychological research for over a century.<br>
-    GSR measures the electrical conductance of the skin, which changes in response to emotional arousal and other psychological processes.
-</p>
-<br> <br> <br> <br>
+    <strong> Self Stabilizing Spoon </strong>  is equipped with sensors and actuators that detect tremors and counteract them in real-time, providing stability and allowing users to eat independently without spillage.
+</p><br>
+<p>Early detection through advanced health analysis can lead to more accurate diagnoses, allowing for timely and effective treatment.</p>
+<p>Creating a system that integrates the spoon’s data with broader health monitoring platforms. This integration allows for continuous health tracking, providing valuable data to both patients and healthcare providers about the progression of the disease and the effectiveness of treatments.</p>
+<br>  
 <p>
-  <img align="right" alt="Django Interface" title="Home Page" width="480" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/3473725e-14a3-4a8b-8831-b395c90088b8"/>
+  <img align="right" alt="Logistic Regression" title="Home Page" src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/Logistic-Regression%20(1).jpeg?raw=true"/>
     <strong> Welcome Page of the project </strong> <br> <br>
-    <strong> Diabetes </strong> is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. <br>
-    <strong> Insulin </strong> is a hormone that regulates blood glucose.
+    <strong> Parkinson's Disease </strong> is a progressive neurological disorder that affects movement, causing symptoms like tremors, stiffness, and slowed movements. It results from the loss of <strong>dopamine-producing brain cells<strong>. <br>
+    <strong> Dopamine  </strong> is a neurotransmitter in the brain that plays a crucial role in regulating movement, motivation, and pleasure. It helps transmit signals between nerve cells.
 </p>
+<p>The pill reminder system alerts elderly individuals to take their medication on time, enhancing adherence and ensuring consistent treatment. It integrates with health monitoring platforms, providing timely reminders and reducing the risk of missed doses, which helps maintain better overall health.</p>
+
 <br> <br> <br> <br>
 <p>
-  <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/eac2e3e2-11e7-411b-a8eb-c655e05cd71e"/>
-    <strong> Predicton of Glucose Result </strong> <br> <br>
-    The <strong> non-invasive glucose monitoring tool </strong> represents a significant advancement in the field of MedTech, IoT, and machine learning and has the potential to make a real difference in the lives of millions of people living with diabetes. <br>
+  <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/yuktha-reddy121/Parkinson-s-Disease-Detection-with-Self-Stabilizing-Spoon-and-Health-Analysis/blob/main/assets/Blynk.png?raw=true"/>
+    <strong> Health Monitoring system Through Blynk app </strong> <br> <br>
+    The <strong> Parkinson's Disease Detection </strong> represents a significant advancement in the field of MedTech, IoT, and machine learning and has the potential to make a real difference in the lives of millions of people living with diabetes. <br>
 </p>
+<p>The integrated <strongg>Pill Reminder System</strong> helps elderly individuals take their medication on time, increasing adherence and ensuring better health management.</p>
+
 <br> <br>
 
 ## Contributing:
@@ -84,22 +89,19 @@ We welcome contributions from the community to help improve the project and add 
 </p>
 <table border=1px solid black>
 <tr>
-    <th>Jayanth R G &ensp;
-<a href="https://www.linkedin.com/in/jayanthrg/">
+    <th>Yuktha Sikhara Sai &ensp;
+<a href="https://www.linkedin.com/in/yuktha-sikhara-sai-42754321b/">
     <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
      </th>
-     <th>Gaayana R &ensp;
-<a href="https://www.linkedin.com/in/gaayana-revanna/ ">
+     <th>Daniya Muzammil &ensp;
+<a href="https://www.linkedin.com/in/daniya-muzammil-603a74224/">
     <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
      </th>
-     <th>Vaishnavi C &ensp;
-<a href="https://www.linkedin.com/in/vaishnavi-c-46663a1a6/">
+     <th>Hassain Ahamed &ensp;
+<a href="https://www.linkedin.com/in/hassain-ahamed-303a2a235/">
     <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
      </th>
-     <th>Vishwas Nigam &ensp;
-<a href="https://www.linkedin.com/in/vishwas-nigam-7097a0108/">
-    <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-     </th>
+  
 </tr>
-<p align="center"> <i> <b> “Good health is not something we can buy. However, it can be an extremely valuable savings account.” </i> </b> </p>
-    <p align="right"> – Anne Wilson Schaef </p>
+<p align="center"> <i> <b> “Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship” </i> </b> </p>
+    <p align="right"> – Gautama Budda </p>
